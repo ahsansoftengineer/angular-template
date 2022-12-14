@@ -6,8 +6,8 @@
   "name": "angular-template",
   "version": "0.0.0",
   ...
-
 }
+```
 3. Copy Paste build file from dist folder to the newly created repo and then push it
 4. On Github Your Repository > Settings > Pages
 - Set Branch to "main"
